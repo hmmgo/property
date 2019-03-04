@@ -4,7 +4,7 @@
 
 Simple application for saving and retrieving the data. 
 
-- Endpoints are:
+Endpoints are:
 - GET `api/properties` all properties
 - GET `api/properties/{id}` specific properties
 - POST `api/properties` create property
